@@ -1,0 +1,11 @@
+# General
+.DS_store
+thumbs.db
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Volume root files
+.Trashes
