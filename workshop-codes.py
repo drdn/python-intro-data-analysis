@@ -72,13 +72,9 @@ print(df.describe())
 # Import a Dataset
 #----------------
 # Assumes that the script is being run from the same directory as the data file
-pd.read_csv("data/GSSsubset.csv")   # for MacOs/Unix
-#pd.read_csv("data\GSSsubset.csv")  # for Windows
-
+pd.read_csv("GSSsubset.csv")
 # Store the dataFrame in a variable
-gss_df = pd.read_csv("data/GSSsubset.csv")   # for MacOs/Unix
-#gss_df = pd.read_csv("data\GSSsubset.csv")  # for Windows
-
+gss_df = pd.read_csv("GSSsubset.csv")
 print(gss_df.head())
 print(gss_df.tail())
 #gss_df.describe()
