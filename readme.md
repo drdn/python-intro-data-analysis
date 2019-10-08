@@ -1,7 +1,7 @@
 # Workshop Materials for Introduction to Python: Basics of Data Analysis Usings Pandas
 
 ## Requirements
-The simplest method for installing all the requirements at once is to use [Anaconda](https://www.anaconda.com/) Python. 
+The simplest method for installing all the requirements at once is to use the [Anaconda](https://www.anaconda.com/) distribution of Python 3.7. 
 
 However, if you wish to work through these materials using a different distribution, please install the following:
 
