@@ -5,7 +5,7 @@ The simplest method for installing all the requirements at once is to use the [A
 
 However, if you wish to work through these materials using a different distribution, please install the following:
 
-* Python 3.x.x
+* Python 3.7
 * Pandas
 * Jupyter
 * matplotlib
